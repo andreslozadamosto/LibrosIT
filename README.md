@@ -3,13 +3,13 @@ Mi copilatorio de libros IT.
 
 
 ### Agile
-**Agile Software Development. Approaches and Their History** [ver](libros/agile.pdf)
-**Gestión de proyectos Scrum Manager** [ver](libros/gestion_proyectos_scrum_manager.pdf)
-**Kanban y Scrun. Obteniendolo mejor de ambos** [ver](libros/KanbanVsScrum_Castellano_FINAL-printed.pdf)
-**Proyectos agiles con Scum. Kleer** [ver](libros/kleer-proyecto-agiles-con-scrum.pdf)
-**Kleer. Tecnicas de retrospectivas** [ver](libros/kleer-tecnicas-de-retrospectivas-es.pdf)
-**Controlled Chaos: Living on the Edge** [ver](libros/ControlledChaos.pdf)
-**Peopleware** [ver](Peopleware.pdf)
+* **Agile Software Development. Approaches and Their History** [ver](libros/agile.pdf)
+* **Gestión de proyectos Scrum Manager** [ver](libros/gestion_proyectos_scrum_manager.pdf)
+* **Kanban y Scrun. Obteniendolo mejor de ambos** [ver](libros/KanbanVsScrum_Castellano_FINAL-printed.pdf)
+* **Proyectos agiles con Scum. Kleer** [ver](libros/kleer-proyecto-agiles-con-scrum.pdf)
+* **Kleer. Tecnicas de retrospectivas** [ver](libros/kleer-tecnicas-de-retrospectivas-es.pdf)
+* **Controlled Chaos: Living on the Edge** [ver](libros/ControlledChaos.pdf)
+* **Peopleware** [ver](Peopleware.pdf)
 
 ### TDD
 **Diseno Agil Con TDD** [ver](libros/disenoAgilConTdd_ebook.pdf)
